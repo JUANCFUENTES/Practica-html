@@ -1,0 +1,190 @@
+
+h1{
+    color:rgb(0, 0, 0);
+    font-size: 3rem;
+    margin-left: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+h2{
+    color: #07e913;
+    font-weight: 300;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+p{
+    color: cornsilk;
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+li{
+    color: white;
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+th{
+    color: white;
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+td{
+    color: white;
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.borde{
+    border-color: white;
+    border-width: 5px;
+    border-radius: 10px;
+    border-style: solid;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.sec1{   
+    background-color:black;
+    width: 90vw;
+    height: 20vw;
+    padding: 0%;
+    text-align: center;
+}
+
+
+.sec2{
+    background-color:black;
+    width: 90vw;
+    height: 20vw;
+    padding: 0%;
+    text-align: center;
+}
+
+.sec3{
+    background-color:black;
+    width: 90vw;
+    height: 17vw;
+    padding: 0%;
+    text-align: center;
+}
+
+.sec4{
+    background-color:black;
+    width: 90vw;
+    height: 27vw;
+    padding: 0%;
+    text-align: left;
+    
+}
+
+.sec4 table{
+    margin-left:auto;
+    margin-right: auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+
+.sec4 th, td{
+    border:solid 1px white;
+    padding: 10px;
+    
+}
+
+.sec4 thead{
+    background-color: rgb(5, 139, 0);
+}
+
+.sec5{
+    background-color:black;
+    width: 90vw;
+    height: 40vw;
+    padding: 0%;
+    text-align: center;
+}
+
+.sec5 button{
+    margin-top: 30px;
+    width: 12vw;
+    height: 2vw;
+    border-radius: 10px;
+    border-color: #04ac0c;
+    background-color: white;
+    color: #04ac0c;
+    font-size: 15px;
+}
+
+.footer{
+    background-color:black;
+    width: 17vw;
+    height: 8vw;
+    padding: 0%;
+    border-radius: 10px;
+}
+
+.footer h2{
+    text-align: center;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.footer button{
+    margin-top: 10px;
+    margin-left: 5vw;
+    background-color: white;
+    border-color:#04ac0c;
+    color: #04ac0c;
+    border-radius: 10px;
+    width: 6vw;
+    height: 3vw;
+    font-size: 15px;
+}
+
+.nav button{
+    
+    margin-left: 89%;
+    background-color: white;
+    border-color:#04ac0c;
+    color: #04ac0c;
+    border-radius: 10px;
+    width: 7vw;
+    height: 3vw;
+    font-size: 15px;
+}
+
+.formulario{
+    background-color:black;
+    width: 48vw;
+    height: 35vw;
+    padding: 0%;
+    text-align: center;
+}
+
+.formulario label{
+    color: white;
+    text-align:left;
+}
+
+.formulario input{
+    width: 200px;
+    height: 20px;
+}
+
+.formulario button{
+    margin-left: auto;
+    background-color: white;
+    border-color:#04ac0c;
+    color: #04ac0c;
+    border-radius: 10px;
+    width: 6vw;
+    height: 2vw;
+    font-size: 15px;
+}
+
